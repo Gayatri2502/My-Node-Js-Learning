@@ -1,0 +1,18 @@
+Node.js is an open-source, cross-platform
+ JavaScript runtime environment
+ that executes JavaScript code outside of a browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, it is often used for web applications
+.
+Node.js was created by Ryan Dahl in 2009. It is built on Chrome's V8 JavaScript engine
+, which makes it very fast and efficient. Node.js is also very lightweight, making it ideal for use on small devices like smartphones and tablets.
+Node.js is event-driven, which means that it can handle multiple requests at the same time without blocking. This makes it ideal for real-time applications like chat and messaging.
+Node.js is also very popular for building APIs. APIs are a way for two pieces of software to communicate with each other. Node.js is a great choice for building APIs because it is fast, efficient, and easy to use.
+Here are some of the benefits of using Node.js:
+Fast and efficient:
+Node.js is built on Chrome's V8 JavaScript engine, which makes it very fast and efficient.
+Lightweight:
+Node.js is very lightweight, making it ideal for use on small devices like smartphones and tablets.
+Event-driven:
+Node.js is event-driven, which means that it can handle multiple requests at the same time without blocking.
+Popular for building APIs:
+Node.js is a great choice for building APIs because it is fast, efficient, and easy to use.
+If you are looking for a fast, efficient, and lightweight JavaScript runtime environment, Node.js is a great choice. It is also a popular choice for building web applications, APIs, and real-time applications.
